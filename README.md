@@ -35,11 +35,11 @@ Sysmon-Config (SwiftOnSecurity) :
 
 ![event](Docs/Screenshot/psAdministrator.png)
 
-![dashboard](Docs/Screenshot/dashboardFound)
+![dashboard](Docs/Screenshot/dashboardFound.png)
 
-![found](Docs/Screenshot/eventFound)
+![found](Docs/Screenshot/eventFound.png)
 
-![detail](Docs/Screenshot/eventDetail)
+![detail](Docs/Screenshot/eventDetail.png)
 
 ## License
 
