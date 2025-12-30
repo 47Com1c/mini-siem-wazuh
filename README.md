@@ -33,7 +33,13 @@ Sysmon-Config (SwiftOnSecurity) :
 
 # Example
 
-[event](Docs/Screenshot/psAdministrator.png)
+![event](Docs/Screenshot/psAdministrator.png)
+
+![dashboard](Docs/Screenshot/dashboardFound)
+
+![found](Docs/Screenshot/eventFound)
+
+![detail](Docs/Screenshot/eventDetail)
 
 ## License
 
