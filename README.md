@@ -32,9 +32,8 @@ Sysmon-Config (SwiftOnSecurity) :
 ```https://github.com/SwiftOnSecurity/sysmon-config```
 
 # Example
-Create new user and grant an administrator to it:
-![event](Docs/Screenshot/psAdministrator.png)
 
+![event](Docs/Screenshot/psAdministrator.png)
 
 ![dashboard](Docs/Screenshot/dashboardFound.png)
 
